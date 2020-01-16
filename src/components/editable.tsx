@@ -7,7 +7,7 @@ import {
   Range,
   Text,
   Transforms,
-} from 'slate'
+} from 'slate-fork'
 import debounce from 'debounce'
 import scrollIntoView from 'scroll-into-view-if-needed'
 

@@ -14,6 +14,7 @@
     "scroll-into-view-if-needed": "^2.2.20"
   },
   "devDependencies": {
+    "@types/direction": "^1.0.0",
     "slate-fork": "github:stsiwo/slate-fork",
     "slate-hyperscript-fork": "github:stsiwo/slate-hyperscript-fork"
   },

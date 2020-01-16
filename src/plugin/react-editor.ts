@@ -1,4 +1,4 @@
-import { Editor, Node, Path, Point, Range, Transforms } from 'slate'
+import { Editor, Node, Path, Point, Range, Transforms } from 'slate-fork'
 
 import { Key } from '../utils/key'
 import {

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, Element } from 'slate'
+import { Text, Element } from 'slate-fork'
 
 import String from './string'
 import { PLACEHOLDER_SYMBOL } from '../utils/weak-maps'
@@ -40,7 +40,7 @@ const Leaf = (props: {
             width: '0',
             maxWidth: '100%',
             whiteSpace: 'nowrap',
-            opacity: '0.333',
+            opacity: 0.333,
           }}
         >
           {leaf.placeholder}

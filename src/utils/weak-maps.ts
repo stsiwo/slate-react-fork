@@ -1,4 +1,4 @@
-import { Node, Ancestor, Editor, Range } from 'slate'
+import { Node, Ancestor, Editor, Range } from 'slate-fork'
 
 import { Key } from './key'
 

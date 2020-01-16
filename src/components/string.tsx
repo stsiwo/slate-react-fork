@@ -1,5 +1,5 @@
 import React from 'react'
-import { Editor, Text, Path, Element, Node } from 'slate'
+import { Editor, Text, Path, Element, Node } from 'slate-fork'
 
 import { ReactEditor, useEditor } from '..'
 
