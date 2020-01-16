@@ -1,0 +1,51 @@
+{
+  "name": "slate-react-fork",
+  "description": "Tools for building completely customizable richtext editors with React.",
+  "version": "0.57.1",
+  "license": "MIT",
+  "repository": "",
+  "dependencies": {
+    "@types/debounce": "^1.2.0",
+    "@types/is-hotkey": "^0.1.1",
+    "debounce": "^1.2.0",
+    "direction": "^1.0.3",
+    "is-hotkey": "^0.1.6",
+    "is-plain-object": "^3.0.0",
+    "scroll-into-view-if-needed": "^2.2.20"
+  },
+  "devDependencies": {
+    "slate-fork": "github:stsiwo/slate-fork",
+    "slate-hyperscript-fork": "github:stsiwo/slate-hyperscript-fork"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "slate-fork": "github:stsiwo/slate-fork"
+  },
+  "umdGlobals": {
+    "react": "React",
+    "slate": "Slate"
+  },
+  "keywords": [
+    "canvas",
+    "contenteditable",
+    "docs",
+    "document",
+    "edit",
+    "editor",
+    "editable",
+    "html",
+    "immutable",
+    "markdown",
+    "medium",
+    "paper",
+    "react",
+    "rich",
+    "richtext",
+    "richtext",
+    "slate",
+    "text",
+    "wysiwyg",
+    "wysiwym"
+  ]
+}
