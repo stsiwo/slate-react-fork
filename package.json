@@ -2,7 +2,7 @@
   "name": "slate-react-fork",
   "description": "Tools for building completely customizable richtext editors with React.",
   "version": "0.57.1",
-  "license": "MIT",
+  "main": "src/index.ts",
   "repository": "",
   "dependencies": {
     "@types/debounce": "^1.2.0",
